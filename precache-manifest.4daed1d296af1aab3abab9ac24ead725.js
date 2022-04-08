@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/TODO-LIST-REACT/static/js/runtime~main.e2a55b6f.js"
   },
   {
-    "revision": "dba2c00a3e6939905fff29c4f017497f",
+    "revision": "2b3680d60f09f46f4d754255b008270a",
     "url": "/TODO-LIST-REACT/index.html"
   }
 ];
